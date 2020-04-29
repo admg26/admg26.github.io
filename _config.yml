@@ -86,11 +86,7 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-<<<<<<< HEAD
  # _posts
-=======
-  # _posts
->>>>>>> 09c4d810f5793461a43b7fdb617e00b0cb221cea
   - scope:
       path: ""
       type: posts
@@ -115,8 +111,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-<<<<<<< HEAD
-=======
 
 theme: jekyll-theme-minimal
->>>>>>> 09c4d810f5793461a43b7fdb617e00b0cb221cea
