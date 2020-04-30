@@ -16,10 +16,10 @@
 title: Alison Ming
 email: A.Ming [at] damtp.cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-        Leverhulme Trust Early Career Fellow | Stratospheric Dynamicist 
+        My personal webpage
 twitter_username: alisonming
 github_username: admg26
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -56,22 +56,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Alison Ming"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : " Leverhulme Trust Early Career Fellow, Fellow in Mathematics at Churchill College, Stratospheric Dynamicist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/alisonming/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/admg26"
+    - label: "ORCID iD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-5786-6188"
 
 footer:
   links:
@@ -81,9 +78,13 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "ORCID iD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-5786-6188"
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 defaults:
  # _posts
@@ -94,7 +95,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -103,6 +104,7 @@ defaults:
       type: pages
     values:
       layout: single
+      share: true
       author_profile: true
 
 category_archive:
