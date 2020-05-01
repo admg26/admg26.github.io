@@ -315,7 +315,7 @@ title: "Research"
 
 </style>
 
-<ol class="bibliography"><li><span id="Alison_Ming70532451">Ming, A., Linz, M., Plumb, R. A., Gerber, E. P., Haenel, F. J., Stiller, G., Kinnison, D. E., Ming, A., &amp; Neu, J. L. (2020). The strength of the meridional overturning circulation of the stratosphere. <i>Apollo - University of Cambridge Repository</i>. https://doi.org/10.17863/cam.50265</span></li>
+<li><span id="Alison_Ming70532451">Ming, A., Linz, M., Plumb, R. A., Gerber, E. P., Haenel, F. J., Stiller, G., Kinnison, D. E., Ming, A., &amp; Neu, J. L. (2020). The strength of the meridional overturning circulation of the stratosphere. <i>Apollo - University of Cambridge Repository</i>. https://doi.org/10.17863/cam.50265</span></li>
 <li><span id="Alison_Ming67759753">Ming, A., Ming, A., Winton, V. H. L., Keeble, J., Abraham, N. L., Dalvi, M., Griffiths, P. T., Caillon, N., Jones, A. E., Mulvaney, R., Savarino, J., Frey, M. M., &amp; Yang, X. (2020). <i>Stratospheric ozone changes from explosive tropical volcanoes: Modelling and ice core constraints</i>. https://doi.org/10.1002/essoar.10501492.2</span></li>
 <li><span id="Alison_Ming66918800">Ming, A., Ming, A., Winton, V. H. L., Keeble, J., Abraham, N. L., Dalvi, M., Griffiths, P. T., Caillon, N., Jones, A. E., Mulvaney, R., Frey, M. M., &amp; Yang, X. (2020). <i>Stratospheric ozone changes from explosive tropical volcanoes: Modelling and ice core constraints</i>. https://doi.org/10.1002/essoar.10501492.1</span></li>
 <li><span id="Winton_2019">Winton, V. H. L., Ming, A., Caillon, N., Hauge, L., Jones, A. E., Savarino, J., Yang, X., &amp; Frey, M. M. (2019). <i>Deposition, recycling and archival of nitrate stable isotopes between the air-snow  interface: comparison between Dronning Maud Land and Dome C, Antarctica</i>. https://doi.org/10.5194/acp-2019-669</span></li>
@@ -334,7 +334,7 @@ title: "Research"
 <li><span id="1">Copernicus GmbH. https://doi.org/10.5194/gmd-2016-80-sc6</span></li>
 <li><span id="WEA:WEA2517">Ming, A. (2015). Stratosphere–troposphere coupling in the Earth system: Where next? <i>Weather</i>, <i>70</i>(8), 232–233. https://doi.org/10.1002/wea.2517</span></li>
 <li><span id="doi:10.1175/JAS-D-15-0293.1">Ming, A., Hitchcock, P., &amp; Haynes, P. (0AD). The double peak in upwelling and heating in the tropical lower stratosphere. <i>Journal of the Atmospheric Sciences</i>, <i>0</i>(0), null. https://doi.org/10.1175/JAS-D-15-0293.1</span></li>
-<li><span id="doi:10.1175/JAS-D-15-0294.1">Ming, A., Hitchcock, P., &amp; Haynes, P. (0AD). The response of the lower stratosphere to zonally symmetric thermal and mechanical forcing. <i>Journal of the Atmospheric Sciences</i>, <i>0</i>(0), null. https://doi.org/10.1175/JAS-D-15-0294.1</span></li></ol>
+<li><span id="doi:10.1175/JAS-D-15-0294.1">Ming, A., Hitchcock, P., &amp; Haynes, P. (0AD). The response of the lower stratosphere to zonally symmetric thermal and mechanical forcing. <i>Journal of the Atmospheric Sciences</i>, <i>0</i>(0), null. https://doi.org/10.1175/JAS-D-15-0294.1</span></li>
 
 
         
