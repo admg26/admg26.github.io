@@ -58,7 +58,9 @@ plugins:
 author:
   name   : "Alison Ming"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : " Leverhulme Trust Early Career Fellow, Fellow in Mathematics at Churchill College, Stratospheric Dynamicist"
+  bio    : "Leverhulme Trust Early Career Fellow <br/>
+            Fellow in Mathematics at Churchill College<br/>
+            Stratospheric Dynamicist<br/>"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
