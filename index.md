@@ -17,3 +17,6 @@ My research focuses on the large scale processes in the stratosphere. Some of my
 
 ## Previous appointments
 * Polar Chemistry-Climate researcher at the British Antarctic Survey
+
+## Community
+I run an international journal club discussing stratospheric dynamics. Meetings are virtual and happen every other Thursday at 3 pm (GMT), lasting about an hour and a half. 
