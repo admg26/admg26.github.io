@@ -5,5 +5,5 @@ main:
   #  url: /posts/
   - title: "Publications"
     url: /research/
-    #- title: "Tags"
-    #url: /tags/
+  - title: "Journal club"
+    url: /journalclub/
