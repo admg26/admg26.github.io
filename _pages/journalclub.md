@@ -2,7 +2,7 @@
 permalink: /journalclub/
 title: "Stratospheric dynamics journal club"
 ---
-The stratospheric dynamics journal club consists of a group of about 25 members ranging from first year PhD students to more senior researchers who meet online every 2 weeks to discuss a paper. The size of the group varies depending on the paper being discussed and the various interests of individuals but typically 6 to 10 members will be present. We meet on Thursdays at 8 am PST, 11 am EST, 1 pm Argentina, 4 pm UK, 5 pm CET, 6 pm Israel for 1.5 hours. Each participant is given a section of the paper to prepare and present. The expectation is that they will be able to explain what is being shown in the figures and to draw attention to any interesting discussion point but no one is expect to be an expect in the subject matter.
+The stratospheric dynamics journal club consists of a group of about 25 members ranging from first year PhD students to more senior researchers who meet online every 2 weeks to discuss a paper. The size of the group varies depending on the paper being discussed and the various interests of individuals but typically 6 to 10 members will be present. We meet on Thursdays at 8 am PST, 11 am EST, 1 pm Argentina, 4 pm UK, 5 pm CET, 6 pm Israel for 1.5 hours. Each participant is given a section of the paper to prepare and present. The expectation is that they will be able to explain what is being shown in the figures and to draw attention to any interesting discussion point but no one is expect to be an expert in the subject matter.
 
 If you are interested in coming along, please email me.
 
