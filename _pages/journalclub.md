@@ -7,6 +7,7 @@ The stratospheric dynamics journal club consists of a group of about 25 members 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
+* 25 February 2021: Tropical water vapour in the lower stratosphere and its relationship to tropical/extratropical dynamical processes in ERA5. Wang et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3801">doi:10.1002/qj.3801</a>
 * 28 January and 11 February 2021: Thermal Equilibrium of the Atmosphere with a Convective Adjustment. Manabe and Strickler (1964) Journal of Atmospheric Sciences <a href="https://doi.org/10.1175/1520-0469(1964)021<0361:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1964)021&\0361:TEOTAW\&>2.0.CO;2</a>
 * 14 January 2021: 3-D tomographic observations of Rossby wave breaking over the Northern Atlantic during the WISE aircraft campaign in 2017. Krasaukas et al. (2020) ACPD <a href="https://doi.org/10.5194/acp-2020-1053">doi:10.5194/acp-2020-1053</a>
 * 17 December 2020: Spatiotemporal Variability of the Southern Annular Mode and its Influence on Antarctic Surface Temperatures Wachter et al. (2020) JGR:Atmospheres <a href="https://doi.org/10.1029/2020JD033818">doi:10.1029/2020JD033818</a>
