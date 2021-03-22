@@ -7,7 +7,7 @@ The stratospheric dynamics journal club consists of a group of about 25 members 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
-* 26 March 2021i The 2019/20 Australian wildfires generated a persistent smoke-charged vortex rising up to 35 km altitude. Khaykin et al. (2020) Communications Earth and Environment <a href="https://doi.org/10.1038/s43247-020-00022-5">doi.org:10.1038/s43247-020-00022-5</a>
+* 26 March 2021: The 2019/20 Australian wildfires generated a persistent smoke-charged vortex rising up to 35 km altitude. Khaykin et al. (2020) Communications Earth and Environment <a href="https://doi.org/10.1038/s43247-020-00022-5">doi.org:10.1038/s43247-020-00022-5</a>
 * 11 March 2021: Memory Matters: A Case for Granger Causality in Climate Variability Studies. McGraw and Barnes (2018) Journal of climate <a href="https://doi.org/10.1175/JCLI-D-17-0334.1">doi:10.1175/JCLI-D-17-0334.1</a>
 * 25 February 2021: Tropical water vapour in the lower stratosphere and its relationship to tropical/extratropical dynamical processes in ERA5. Wang et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3801">doi:10.1002/qj.3801</a>
 * 28 January and 11 February 2021: Thermal Equilibrium of the Atmosphere with a Convective Adjustment. Manabe and Strickler (1964) Journal of Atmospheric Sciences <a href="https://doi.org/10.1175/1520-0469(1964)021<0361:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1964)021&\0361:TEOTAW\&>2.0.CO;2</a>
