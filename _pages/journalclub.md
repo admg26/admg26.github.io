@@ -7,6 +7,8 @@ The stratospheric dynamics journal club consists of a group of about 25 members 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
+* 8 July 2021: TBC
+* 10 June 2021: A Positive Zonal Wind Feedback on Sudden Stratospheric Warming Development Revealed by CESM2 (WACCM6) Reforecasts. Davis et al. (2020) GRL <a href="https://doi.org/10.1029/2020GL090863">doi:10.1029/2020GL090863</a>
 * 06 May and 20 May 2021: The Influence of the Stratosphere on the Tropical Troposphere. Haynes et al. (2021) J. of the Met. Soc. of Japan. Ser. II <a href="https://doi.org/10.2151/jmsj.2021-040">doi:10.2151/jmsj.2021-040</a>
 * 15 April 2021: The stratospheric QBO affects antarctic sea ice through the tropical
 convection in early austral winter. Yamazakia and Nakamura (2021) Polar Science <a href="https://doi.org/10.1016/j.polar.2021.100674">doi:10.1016/j.polar.2021.100674</a>
