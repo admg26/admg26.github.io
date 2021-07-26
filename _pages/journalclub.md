@@ -7,9 +7,10 @@ The stratospheric dynamics journal club consists of a group of about 25 members 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
-* 8 July 2021: TBC
+* 29 July and 12 August: Sudden Stratospheric Warmings. Baldwin et al. (2020) Rev. Geophys. <a href="https://doi.org/10.1029/2020RG000708">doi:10.1029/2020RG000708</a>
+* 8 July 2021: Beyond equilibrium climate sensitivity. Knutti et al. (2017) Nat. Geos. <a href="https://doi.org/10.1038/ngeo3017">doi:10.1038/ngeo3017</a>
 * 10 June 2021: A Positive Zonal Wind Feedback on Sudden Stratospheric Warming Development Revealed by CESM2 (WACCM6) Reforecasts. Davis et al. (2020) GRL <a href="https://doi.org/10.1029/2020GL090863">doi:10.1029/2020GL090863</a>
-* 06 May and 20 May 2021: The Influence of the Stratosphere on the Tropical Troposphere. Haynes et al. (2021) J. of the Met. Soc. of Japan. Ser. II <a href="https://doi.org/10.2151/jmsj.2021-040">doi:10.2151/jmsj.2021-040</a>
+* 6 and 20 May 2021: The Influence of the Stratosphere on the Tropical Troposphere. Haynes et al. (2021) J. of the Met. Soc. of Japan. Ser. II <a href="https://doi.org/10.2151/jmsj.2021-040">doi:10.2151/jmsj.2021-040</a>
 * 15 April 2021: The stratospheric QBO affects antarctic sea ice through the tropical
 convection in early austral winter. Yamazakia and Nakamura (2021) Polar Science <a href="https://doi.org/10.1016/j.polar.2021.100674">doi:10.1016/j.polar.2021.100674</a>
 * 26 March 2021: The 2019/20 Australian wildfires generated a persistent smoke-charged vortex rising up to 35 km altitude. Khaykin et al. (2020) Communications Earth and Environment <a href="https://doi.org/10.1038/s43247-020-00022-5">doi:10.1038/s43247-020-00022-5</a>
