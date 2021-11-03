@@ -8,7 +8,7 @@ If you are interested in coming along, please email me.
 
 ## List of past papers discussed
 * 4 November: Northern hemisphere cold air outbreaks are more likely to be severe during weak polar vortex conditions. Huang et al. (2021) Communications Earth & Environment <a href="https://doi.org/10.1038/s43247-021-00215-6">doi:10.1038/s43247-021-00215-6</a>
-* 21 October (In honour of the Nobel prize in Physics): Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity. Manabe and Wetherald (1967) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1967)024&lt0241:TEOTAW&gt2.0.CO;2</a>
+* 21 October (In honour of the Nobel prize in Physics): Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity. Manabe and Wetherald (1967) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2</a>
 * 7 October: On the role of Rossby wave breaking in the quasi-biennial modulation of the stratospheric polar vortex during boreal winter. Lu et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3775">doi:10.1002/qj.3775></a>
 * 23 September (2 papers): 1) The global atmospheric circulation on moist isentropes. Pauluis et al. (2008) Science <a href="https://doi.org/10.1126/science.1159649">doi:10.1126/science.1159649</a>
 2) The global atmospheric circulation in moist isentropic coordinates. Paulius et al. (2010) Journal of Climate <a href="https://doi.org/10.1175/2009JCLI2789.1">doi:10.1175/2009JCLI2789.1</a>
