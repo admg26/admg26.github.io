@@ -7,10 +7,15 @@ The stratospheric dynamics journal club consists of a group of about 25 members 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
-* 29 July and 12 August: Sudden Stratospheric Warmings. Baldwin et al. (2020) Rev. Geophys. <a href="https://doi.org/10.1029/2020RG000708">doi:10.1029/2020RG000708</a>
-* 8 July 2021: Beyond equilibrium climate sensitivity. Knutti et al. (2017) Nat. Geos. <a href="https://doi.org/10.1038/ngeo3017">doi:10.1038/ngeo3017</a>
-* 10 June 2021: A Positive Zonal Wind Feedback on Sudden Stratospheric Warming Development Revealed by CESM2 (WACCM6) Reforecasts. Davis et al. (2020) GRL <a href="https://doi.org/10.1029/2020GL090863">doi:10.1029/2020GL090863</a>
-* 6 and 20 May 2021: The Influence of the Stratosphere on the Tropical Troposphere. Haynes et al. (2021) J. of the Met. Soc. of Japan. Ser. II <a href="https://doi.org/10.2151/jmsj.2021-040">doi:10.2151/jmsj.2021-040</a>
+* 4 November: Northern hemisphere cold air outbreaks are more likely to be severe during weak polar vortex conditions. Huang et al. (2021) Communications Earth & Environment <a href="https://doi.org/10.1038/s43247-021-00215-6">doi:10.1038/s43247-021-00215-6</a>
+* 21 October (In honour of the Nobel prize in Physics): Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity. Manabe and Wetherald (1967) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1967)024&lt0241:TEOTAW&gt2.0.CO;2</a>
+* 7 October: On the role of Rossby wave breaking in the quasi-biennial modulation of the stratospheric polar vortex during boreal winter. Lu et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3775">doi:10.1002/qj.3775></a>
+* 23 September (2 papers): 1) The global atmospheric circulation on moist isentropes. Pauluis et al. (2008) Science <a href="https://doi.org/10.1126/science.1159649">doi:10.1126/science.1159649</a>
+2) The global atmospheric circulation in moist isentropic coordinates. Paulius et al. (2010) Journal of Climate <a href="https://doi.org/10.1175/2009JCLI2789.1">doi:10.1175/2009JCLI2789.1</a>
+* 29 July, 12 August and 9 September: Sudden Stratospheric Warmings. Baldwin et al. (2020) Reviews of Geophysics <a href="https://doi.org/10.1029/2020RG000708">doi:10.1029/2020RG000708</a>
+* 8 July 2021: Beyond equilibrium climate sensitivity. Knutti et al. (2017) Nature Geoscience <a href="https://doi.org/10.1038/ngeo3017">doi:10.1038/ngeo3017</a>
+* 10 June 2021: A Positive Zonal Wind Feedback on Sudden Stratospheric Warming Development Revealed by CESM2 (WACCM6) Reforecasts. Davis et al. (2020) Geophysical Research Letters <a href="https://doi.org/10.1029/2020GL090863">doi:10.1029/2020GL090863</a>
+* 6 and 20 May 2021: The Influence of the Stratosphere on the Tropical Troposphere. Haynes et al. (2021) Journal of the Meteorological Society of Japan. Ser. II <a href="https://doi.org/10.2151/jmsj.2021-040">doi:10.2151/jmsj.2021-040</a>
 * 15 April 2021: The stratospheric QBO affects antarctic sea ice through the tropical
 convection in early austral winter. Yamazakia and Nakamura (2021) Polar Science <a href="https://doi.org/10.1016/j.polar.2021.100674">doi:10.1016/j.polar.2021.100674</a>
 * 26 March 2021: The 2019/20 Australian wildfires generated a persistent smoke-charged vortex rising up to 35 km altitude. Khaykin et al. (2020) Communications Earth and Environment <a href="https://doi.org/10.1038/s43247-020-00022-5">doi:10.1038/s43247-020-00022-5</a>
