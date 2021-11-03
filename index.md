@@ -21,4 +21,4 @@ You can get in touch by email: A.Ming [at] damtp.cam.ac.uk
 * Polar Chemistry-Climate researcher at the British Antarctic Survey
 
 ## Community
-I run an international journal club discussing stratospheric dynamics. Meetings are virtual and happen every other Thursday at 4 pm (GMT), lasting about an hour and a half. 
+I run an international journal club discussing stratospheric dynamics. Meetings are virtual and happen every other Thursday at 3 pm (GMT), lasting about an hour and a half. 
