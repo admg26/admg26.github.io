@@ -2,11 +2,16 @@
 permalink: /journalclub/
 title: "Stratospheric dynamics journal club"
 ---
-The stratospheric dynamics journal club consists of a group of about 25 members ranging from first year PhD students to more senior researchers who meet online every 2 weeks to discuss a paper. The size of the group varies depending on the paper being discussed and the various interests of individuals but typically 6 to 10 members will be present. We meet on Thursdays at 3 pm GMT for 1.5 hours. Each participant is given a section of the paper to prepare and present. The expectation is that they will be able to explain what is being shown in the figures and to draw attention to any interesting discussion points but no one is expect to be an expert in the subject matter.
+The stratospheric dynamics journal club consists of a group of about 25 members ranging from first year PhD students to more senior researchers who meet online to discuss a paper. We try to meet every 3 weeks but there are periods when people are busy attending big conferences. The size of the group varies depending on the paper being discussed and the various interests of individuals but typically 6 to 10 members will be present. We meet on Thursdays at 3 pm GMT for 1.5 hours. Each participant is given a section of the paper to prepare and present. The expectation is that they will be able to explain what is being shown in the figures and to draw attention to any interesting discussion points but no one is expect to be an expert in the subject matter.
 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
+* 16 June: Dynamical proxies of North Atlantic predictability and extremes. Faranda et al. (2017) Scientific reports <a href="https://doi.org/10.1038/srep41278">doi:10.1038/srep41278</a>
+* 28 April: Early-warning signals for critical transitions. Scheffer et al. (2009) Natur e <a href="https://doi.org/10.1038/nature08227">doi:10.1038/nature08227</a>
+* 7 April: Progressing emergent constraints on future climate change. Hall et al. (2019)
+Nature Climate Change <a href="https://doi.org/10.1038/s41558-019-0436-6">doi:10.1038/s41558-019-0436-6</a>
+* 26 November: Bringing physical reasoning into statistical practice in climate-change science. Shepherd (2021) Climatic Change <a href="https://doi.org/10.1007/s10584-021-03226-6">doi:10.1007/s10584-021-03226-6</a>
 * 4 November: Northern hemisphere cold air outbreaks are more likely to be severe during weak polar vortex conditions. Huang et al. (2021) Communications Earth & Environment <a href="https://doi.org/10.1038/s43247-021-00215-6">doi:10.1038/s43247-021-00215-6</a>
 * 21 October (In honour of the Nobel prize in Physics): Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity. Manabe and Wetherald (1967) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2</a>
 * 7 October: On the role of Rossby wave breaking in the quasi-biennial modulation of the stratospheric polar vortex during boreal winter. Lu et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3775">doi:10.1002/qj.3775></a>
