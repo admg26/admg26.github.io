@@ -7,17 +7,23 @@ The stratospheric dynamics journal club consists of a group of about 25 members 
 If you are interested in coming along, please email me.
 
 ## List of past papers discussed
-* 16 June: Dynamical proxies of North Atlantic predictability and extremes. Faranda et al. (2017) Scientific reports <a href="https://doi.org/10.1038/srep41278">doi:10.1038/srep41278</a>
-* 28 April: Early-warning signals for critical transitions. Scheffer et al. (2009) Natur e <a href="https://doi.org/10.1038/nature08227">doi:10.1038/nature08227</a>
-* 7 April: Progressing emergent constraints on future climate change. Hall et al. (2019)
+* 8 December 2022: A Robust Mechanism for Strengthening of the Brewer–Dobson Circulation in Response to Climate Change: Critical-Layer Control of Subtropical Wave Breaking. Shepherd and McLandress (2011) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/2010JAS3608.1">doi:10.1175/2010JAS3608.1</a> 
+* 3 November 2022: Catch up on SPARC GA posters.
+* 13 October 2022: The Oscillatory Motion of Jupiter's Polar Cyclones Results From Vorticity Dynamics. Gavriel and Kaspi (2022) Geophysical Research Letters <a href="https://doi.org/10.1029/2022GL098708">doi:10.1029/2022GL098708</a>
+* 15 September 2022: Longer and oscillatory: Subseasonal Vacillations in the Winter Stratosphere. Hardiman et al. (2020) Geophysical Research Letters <a href="https://doi.org/10.1029/2020GL087766">doi:10.1029/2020GL087766</a>
+* 18 August 2022: Scaling of Eliassen-Palm flux vectors. Jucker (2021) Atmospheric Science Letters <a href="https://doi.org/10.1002/asl.1020">doi:10.1002/asl.1020</a>
+* 7 July 2022: The stratosphere: dynamics and variability. Butchart (2022) Weather Climate Dynamics, <a href="https://doi.org/10.5194/wcd-3-1237-2022">doi:10.5194/wcd-3-1237-2022</a>. We contributed a comment to the discussion article.
+* 16 June 2022: Dynamical proxies of North Atlantic predictability and extremes. Faranda et al. (2017) Scientific reports <a href="https://doi.org/10.1038/srep41278">doi:10.1038/srep41278</a>
+* 28 April 2022: Early-warning signals for critical transitions. Scheffer et al. (2009) Natur e <a href="https://doi.org/10.1038/nature08227">doi:10.1038/nature08227</a>
+* 7 April 2022: Progressing emergent constraints on future climate change. Hall et al. (2019)
 Nature Climate Change <a href="https://doi.org/10.1038/s41558-019-0436-6">doi:10.1038/s41558-019-0436-6</a>
-* 26 November: Bringing physical reasoning into statistical practice in climate-change science. Shepherd (2021) Climatic Change <a href="https://doi.org/10.1007/s10584-021-03226-6">doi:10.1007/s10584-021-03226-6</a>
+* 26 November 2021: Bringing physical reasoning into statistical practice in climate-change science. Shepherd (2021) Climatic Change <a href="https://doi.org/10.1007/s10584-021-03226-6">doi:10.1007/s10584-021-03226-6</a>
 * 4 November: Northern hemisphere cold air outbreaks are more likely to be severe during weak polar vortex conditions. Huang et al. (2021) Communications Earth & Environment <a href="https://doi.org/10.1038/s43247-021-00215-6">doi:10.1038/s43247-021-00215-6</a>
-* 21 October (In honour of the Nobel prize in Physics): Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity. Manabe and Wetherald (1967) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2</a>
-* 7 October: On the role of Rossby wave breaking in the quasi-biennial modulation of the stratospheric polar vortex during boreal winter. Lu et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3775">doi:10.1002/qj.3775></a>
-* 23 September (2 papers): 1) The global atmospheric circulation on moist isentropes. Pauluis et al. (2008) Science <a href="https://doi.org/10.1126/science.1159649">doi:10.1126/science.1159649</a>
+* 21 October 2021 (In honour of the Nobel prize in Physics): Thermal Equilibrium of the Atmosphere with a Given Distribution of Relative Humidity. Manabe and Wetherald (1967) Journal of the Atmospheric Science <a href="https://doi.org/10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2">doi:10.1175/1520-0469(1967)024<0241:TEOTAW>2.0.CO;2</a>
+* 7 October 2021: On the role of Rossby wave breaking in the quasi-biennial modulation of the stratospheric polar vortex during boreal winter. Lu et al. (2020) Quarterly Journal of the Royal Meteorological Society <a href="https://doi.org/10.1002/qj.3775">doi:10.1002/qj.3775></a>
+* 23 September 2021 (2 papers): 1) The global atmospheric circulation on moist isentropes. Pauluis et al. (2008) Science <a href="https://doi.org/10.1126/science.1159649">doi:10.1126/science.1159649</a>
 2) The global atmospheric circulation in moist isentropic coordinates. Paulius et al. (2010) Journal of Climate <a href="https://doi.org/10.1175/2009JCLI2789.1">doi:10.1175/2009JCLI2789.1</a>
-* 29 July, 12 August and 9 September: Sudden Stratospheric Warmings. Baldwin et al. (2020) Reviews of Geophysics <a href="https://doi.org/10.1029/2020RG000708">doi:10.1029/2020RG000708</a>
+* 29 July, 12 August and 9 September 2021: Sudden Stratospheric Warmings. Baldwin et al. (2020) Reviews of Geophysics <a href="https://doi.org/10.1029/2020RG000708">doi:10.1029/2020RG000708</a>
 * 8 July 2021: Beyond equilibrium climate sensitivity. Knutti et al. (2017) Nature Geoscience <a href="https://doi.org/10.1038/ngeo3017">doi:10.1038/ngeo3017</a>
 * 10 June 2021: A Positive Zonal Wind Feedback on Sudden Stratospheric Warming Development Revealed by CESM2 (WACCM6) Reforecasts. Davis et al. (2020) Geophysical Research Letters <a href="https://doi.org/10.1029/2020GL090863">doi:10.1029/2020GL090863</a>
 * 6 and 20 May 2021: The Influence of the Stratosphere on the Tropical Troposphere. Haynes et al. (2021) Journal of the Meteorological Society of Japan. Ser. II <a href="https://doi.org/10.2151/jmsj.2021-040">doi:10.2151/jmsj.2021-040</a>
