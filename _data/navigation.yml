@@ -3,7 +3,16 @@ main:
   - title: "Home"
     url: /
   #  url: /posts/
-  - title: "Publications"
+  - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Journal club"
     url: /journalclub/
+research-interests:
+  - title: "Research"
+    children:
+      - title: "Group"
+        url: /group/
+      - title: "QUOCA project"
+        url: /quoca/

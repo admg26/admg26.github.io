@@ -22,6 +22,3 @@ Email: adk33 [at] cam.ac.uk or A.Ming [at] damtp.cam.ac.uk
 ## Previous appointments
 * [Leverhulme Trust Early Career Fellow](https://www.leverhulme.ac.uk/) at DAMTP, University of Cambridge
 * Polar Chemistry-Climate researcher at the British Antarctic Survey
-
-## Community
-I run an international journal club discussing stratospheric dynamics. Meetings are virtual and happen every other Thursday at 3 pm (GMT), lasting about an hour and a half. 

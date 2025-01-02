@@ -62,9 +62,9 @@ author:
             Fellow in Mathematics at Churchill College<br/>
             Stratospheric Dynamicist<br/>"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alisonming/"
+    # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/alisonming/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/admg26"
@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"

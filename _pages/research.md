@@ -1,45 +1,33 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research interests"
+author_profile: false
+sidebar:
+  title: ""
+  nav: research-interests
 ---
-        
- <style>
-.csl-block {
-    font-size: 16px;
-}
-.csl-title, .csl-author, .csl-event, .csl-editor, .csl-venue {
-    display: block;
-    position: relative;
-    font-size: 16px;
-}
 
-.csl-title b {
-    font-weight: 600;
-}
+My research focuses on the large-scale processes in the stratosphere with a broad interest in other atmospheric processes. Some of my current interests include understanding the radiative and dynamical interactions taking place in the atmosphere, the chemical processes that affect stratospheric ozone and exploring the seasonal to decadal aspects of the circulation. I also have some side projects on tropical widening and aerosol transport over the Ross Sea. I am part of the APARC community, for which I am co-leading an international modelling activity to understand the ozone feedback within the Quasi-Biennial Oscillation (QBO).
 
-.csl-content {
-    display: inline-block;
-    vertical-align: top;
-    padding-left: 20px;
-}
+My approach is to use a combination of data, hierarchies of numerical models (different amounts of complexity) and theoretical frameworks to come up with a process-based understanding of interesting atmospheric problems. My field tends to be very collaborative (many stratospheric dynamicists scattered around the world) who all enjoy pooling expertise to solve problems.
 
-.no-bullet {
-   list-style-type: none;
-}
+### Quasi-Biennial Oscillation
+Processes in the stratosphere, 10 to 50 kilometers above Earth’s surface, are able to affect the troposphere and represent a key source of predictability of surface weather and climate. Improving weather forecast accuracy on timescales of weeks to months relies on having a good representation of the interactions in the stratosphere in our numerical models (Marshall et al., 2009). The QBO is the largest source of interannual variability in the tropical stratosphere (Baldwin et al., 2001). It manifests as a pattern of alternating descending winds, with a period of about 28 months, and dominates the interannual variability of this region. It is primarily driven by waves originating in the troposphere. Despite largely being confined to within 10° of the Equator, the impact of the QBO extends to the whole atmosphere (Baldwin et al., 2001; Haynes et al., 2021). The QBO influences the winter polar vortex via the Holton-Tan mechanisms which can then have a surface impact on North Atlantic winter weather. In the tropics, a relationship between the QBO and a major tropical precipitation pattern, the Madden-Julian oscillation, has recently been discovered (Yoo and Son, 2016). This connection between the two oscillations is a major source of predictability for weather on seasonal to sub-seasonal timescales in the tropics (Lim et al., 2019). 
 
-</style>
+Although the basic theoretical framework that describes how wave processes drive the regular QBO is well understood, the quantitative details and interactions between the different processes are not (Bushell et al., 2020). Whilst an increasing number of climate models are able to formulate some kind of QBO, few state-of-the-art climate models are able to spontaneously generate one and even then, the phase, strength and downward extent differ significantly from observations. Only 15 of the 30 such models used in the latest Intergovernmental Panel on Climate Change (IPCC) report have any sort of QBO. Amongst the models that do simulate a QBO, none capture the behaviour of the real QBO in the lower stratosphere, a factor critical for tropospheric impacts. There is also no consistency in predictions of how the QBO will change under a doubling of carbon dioxide. The most likely culprit is the representation of parametrized gravity waves (Alexander et al., 2010; Richter et al., 2020). The inability of models to robustly simulate this major source of tropical variability introduces a large uncertainty in future global climate predictions, as well as seasonal forecasts of UK extreme winter weather (Scaife et al., 2014). I am interested in improving our theoretical understanding of the QBO by using hierarchies of models and observations to describe the processes withing the QBO.
 
-<li><span id="<Ming_2021b"><b>Ming, A.</b>, and Hitchcock, P. (2021) What contributes to the interannual variability in tropical lower stratospheric temperatures?<i>Journal of Geophysical Research: Atmospheres</i>. <a href="https://doi.org/10.1029/2021JD035548">doi:10.1029/2021JD035548</a></span></li>
-<li><span id="Ming_2021a"><b>Ming A.</b>, Rowell, I., Lewin, S., Rouse, R., Aubry, T., and Boland, E. (2021). Key messages from the IPCC AR6 climate science report. <i>Cambridge Open Engage</i>. <a href="https://doi.org/10.33774/coe-2021-fj53b">doi:10.33774/coe-2021-fj53b</a></span></li>
-<li><span id="<Randel_2021">Randel, W. J., Wu, F., <b>Ming, A.</b>, and Hitchcock, P. (2021) A simple model of ozone-temperature coupling in the tropical lower stratosphere <i>Atmospheric Chemistry and Physics</i>. <a href="https://doi.org/10.5194/acp-2021-514">doi:10.5194/acp-2021-514</a></span></li>
-<li><span id="<Ming_2020"><b>Ming, A.</b>, Winton, V. H. L., Keeble, J., Abraham, N. L., Dalvi, M., Griffiths, P. T., Caillon, N., Jones, A. E., Mulvaney, R., Savarino, J., Frey, M. M., and Yang, X. (2020) Stratospheric ozone changes from explosive tropical volcanoes: Modelling and ice core constraints <i>Journal of Geophysical Research: Atmospheres</i>. <a href="https://doi.org/10.1029/2019JD032290">doi:10.1029/2019JD032290</a></span></li>
-<li><span id="Winton_2019">Winton, V. H. L., <b>Ming, A.</b>, Caillon, N., Hauge, L., Jones, A. E., Savarino, J., Yang, X., &and Frey, M. M. (2019) Deposition, recycling and archival of nitrate stable isotopes between the air-snow  interface: comparison between Dronning Maud Land and Dome C, Antarctica<i>Atmospheric Chemistry and Physics</i>. <a href="https://doi.org/10.5194/acp-2019-669">doi:10.5194/acp-2019-669</a></span></li>
-<li><span id="Winton_2020">Winton, V. H. L., <b>Ming, A.</b>, Caillon, N., Hauge, L., Jones, A. E., Savarino, J., Yang, X., and Frey, M. M. (2019) Supplementary material to "Deposition, recycling and archival of nitrate stable isotopes between the air-snow interface: comparison between Dronning Maud Land and Dome C, Antarctica<i>Atmospheric Chemistry and Physics</i>. <a href="https://doi.org/10.5194/acp-2019-669-supplement">doi:10.5194/acp-2019-669-supplement</a></span></li>
-<li><span id="Linz_2019">Linz, M., Abalos, M., Glanville, A. S., Kinnison, D. E., <b>Ming, A.</b>, and Neu, J. L. (2019) The global diabatic circulation of the stratosphere as a metric for the Brewer–Dobson circulation. <i>Atmospheric Chemistry and Physics</i>, <i>19</i>(7), 5069&mdash;5090. <a href="https://doi.org/10.5194/acp-19-5069-2019">doi:10.5194/acp-19-5069-2019</a></span></li>
-<li><span id="Waugh_2018">Waugh, D.W., Grise, K.M., Seviour, W.J., Davis, S.M., Davis, N., Adam, O., Son, S., Simpson, I.R., Staten, P.W., Maycock, A.C., Ummenhofer, C.C., Birner, T., and <b>Ming, A.</b> (2018) Revisiting the Relationship among Metrics of Tropical Expansion. <i>Journal of Climate</i>, <i>31</i>, <i>7565&mdash;7581</i>, <a href="https://doi.org/10.1175/JCLI-D-18-0108.1">doi.org:10.1175/JCLI-D-18-0108.1</a></span></li>
-<li><span id="Adam_2018">Adam, O., Grise, K. M., Staten, P., Simpson, I. R., Davis, S. M., Davis, N. A., Waugh, D. W., Birner, T., and <b>Ming, A.</b> (2018) The TropD software package (v1): standardized methods for calculating tropical-width diagnostics. <i>Geoscientific Model Development</i>, <i>11</i>(10), 4339&mdash;4357. <a href="https://doi.org/10.5194/gmd-11-4339-2018">doi:10.5194/gmd-11-4339-2018</a></span></li>
-<li><span id="Ming_2017"><b>Ming, A.</b>, Maycock, A. C., Hitchcock, P., and Haynes, P. (2017) The radiative role of ozone and water vapour in the temperature annual cycle in the tropical tropopause layer. <i>Atmospheric Chemistry and Physics</i>, 1&mdash;39. <a href="https://doi.org/10.5194/acp-17-5677-2017">doi:10.5194/acp-17-5677-2017</a></span></li>
-<li><span id="Linz_2017">Linz, M., Plumb, R. A., Gerber, E. P., Haenel, F. J., Stiller, G., Kinnison, D. E., <b>Ming, A.</b>, and Neu, J. L. (2017) The strength of the meridional overturning circulation of the stratosphere. <i>Nature Geoscience</i>, <i>10</i>(9), 663&mdash;667. <a href="https://doi.org/10.1038/ngeo3013">doi:10.1038/ngeo3013</a></span></li>
-<li><span id="<Ming_2016b"><b>Ming, A.</b>, Hitchcock, P., and Haynes, P. (2016) The response of the lower stratosphere to zonally symmetric thermal and mechanical forcing. <i>Journal of the Atmospheric Sciences</i>, <a href="https://doi.org/10.1175/JAS-D-15-0294.1">doi:10.1175/JAS-D-15-0294.1</a></span></li>
-<li><span id="Ming_2016a"><b>Ming, A.</b>, Hitchcock, P., and Haynes, P. (2016) The double peak in upwelling and heating in the tropical lower stratosphere. <i>Journal of the Atmospheric Sciences</i>, <a href="https://doi.org/10.1175/JAS-D-15-0293.1">doi.org:10.1175/JAS-D-15-0294.1</a></span></li>
-<li><span id="Ming_2015"><b>Ming, A.</b> (2015) Stratosphere–troposphere coupling in the Earth system: Where next? <i>Weather</i>, <a href="https://doi.org/10.1002/wea.2517">doi:10.1002/wea.2517</a></span></li>
+### Polar vortex
+The Northern hemisphere polar vortex forms every autumn in the stratosphere as it is plunged into the polar night. Strong eastward winds encircle the pole with low temperatures in the middle of the vortex. This vortex usually lasts until spring time but roughly every other year, the vortex undergoes an early and dramatic destruction in an event known as a sudden warming. Winds reverse direction and temperatures climb rapidly. When this event happens, there is an increased probability of surface impacts such as cold spells over Northern Europe. It is known that ozone feedbacks play a role in the surface signature of the sudden warming. 
+ 
+Much of the literature and recent progress in improving seasonal predictability has focused on vortex sudden warming but there are those years when nothing dramatic happens to the vortex. A strong and stable vortex forms in autumn and dies in spring. The aim of this project is to investigate how the surface signature differs in those strong vortex years and whether the inclusion of interactive chemistry affects the coupling to the surface in comprehensive models.
+
+### North Atlantic hurricanes
+North Atlantic hurricanes are one of the most damaging natural hazards that affect North America. Their precise trajectories are very difficult to predict ahead of the hurricane season but it is helpful to the insurance industry to get a sense of the strength, frequency and where hurricanes will make landfall well ahead of the season. Various factors affect hurricanes including El Niño–Southern Oscillation, sea-surface temperatures in the North Atlantic, African Easterly Waves and stratospheric conditions amongst others. This project is part of the INSPIRE program which is a collaboration between ICCS and Inigo insurance.
+
+The project is looking at the main factors affecting hurricanes and any detectable trends in the data that are distinct from interannual and decadal variability. We are trying to quantify the changes to hurricanes affecting North America that to give a better understanding of how different aspects of hurricanes (intensity, landfall region etc) are being affected by other atmospheric processes including the QBO.  
+
+### Biogenic aerosols in the Ross sea
+This project is part of a wider Marsden project led by Holly Winton to look at the impact of biomass burning and dust on soluble iron deposition in Australian waters, the Southern Ocean and Antarctica. Southern Ocean phytoplankton modulate climate as they use sunlight to convert carbon dioxide to organic carbon, lowering atmospheric CO2 levels, and fuelling marine life in the Southern Ocean. The Ross Sea Marine Protected Area (RSMPA), the world’s largest marine reserve, is a biological hot spot in the Southern Ocean where changing sea ice conditions affects the seasonal phytoplankton blooms. Dramatic and unexplained changes in sea ice conditions in the Ross Sea have been observed over the last decade. However, the impact of changing sea ice
+conditions on phytoplankton is unknown, largely due to the limited records of phytoplankton. This project aims to understand how phytoplanton will respond to declining sea ice by looking at novel ice core biomarkers of phytoplankton composition, habitat and productivity to extend the short observational record from 20 to 200 years. A part of this team, we are modelling the transport of the biogenic aerosols from the Ross sea production regions over to the ice-core site using the MetOffice NAME model.
+
+

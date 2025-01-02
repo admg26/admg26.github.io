@@ -2,6 +2,9 @@
 permalink: /journalclub/
 title: "Stratospheric dynamics journal club"
 ---
+
+[I unfortunately do not have time to run this anymore but if you are interested in reviving it, feel free to get in touch.]
+
 The stratospheric dynamics journal club consists of a group of about 25 members ranging from first year PhD students to more senior researchers who meet online to discuss a paper. We try to meet every 3 weeks but there are periods when people are busy attending big conferences. The size of the group varies depending on the paper being discussed and the various interests of individuals but typically 6 to 10 members will be present. We meet on Thursdays at 3 pm GMT for 1.5 hours. Each participant is given a section of the paper to prepare and present. The expectation is that they will be able to explain what is being shown in the figures and to draw attention to any interesting discussion points but no one is expect to be an expert in the subject matter.
 
 If you are interested in coming along, please email me.
