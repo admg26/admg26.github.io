@@ -7,12 +7,12 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Journal club"
-    url: /journalclub/
+  - title: "Group"
+    url: /group/
 research-interests:
   - title: "Research"
     children:
-      - title: "Group"
-        url: /group/
       - title: "QUOCA project"
         url: /quoca/
+      - title: "Journal club"
+        url: /journalclub/
