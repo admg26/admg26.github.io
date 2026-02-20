@@ -6,7 +6,7 @@ title: "Group"
 ### Post Docs
 
 <li><a href="https://cwp.io/">Charles Powell</a> Working on the influence of the QBO on tropical cyclones.</li>
-<li><a href="https://atm.group.ch.cam.ac.uk/person/ua255">Ummugulsum Alyuz</a>Working on novel stratospheric aerosols. Primarily based in Chemistry Dept working with Alex Archibald and Chiara Giorio.</li>
+<li><a href="https://atm.group.ch.cam.ac.uk/person/ua255">Ummugulsum Alyuz</a> Working on novel stratospheric aerosols. Primarily based in Chemistry Dept working with Alex Archibald and Chiara Giorio.</li>
 
 
 ### Current PhD students
@@ -14,7 +14,7 @@ title: "Group"
 
 ### Past PhD students
 
-<li><a href="https://www.cst.cam.ac.uk/people/mv490">Mala Virdee</a>: Co-supervised with Emily Shuckburgh and Emma Boland. Working on applying machine learning techniques to extreme climate event.</li>
+<li>Viva Dec 2025: <a href="https://www.cst.cam.ac.uk/people/mv490">Mala Virdee</a> Co-supervised with Emily Shuckburgh and Emma Boland. Working on applying machine learning techniques to extreme climate event.</li>
 
 ### Visiting students
 
